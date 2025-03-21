@@ -6,3 +6,15 @@ available in the app when your plugin is enabled.
 If your plugin does not need CSS, delete this file.
 
 */
+
+.ost-date {
+  position: absolute;
+  margin-left: -9.8rem;
+  font-size: 0.8rem;
+  font-style: italic;
+  display: flex;
+  height: 24px;
+  align-items: center;
+  width: 16ch;
+  justify-content: end;
+}
