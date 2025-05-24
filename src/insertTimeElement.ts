@@ -3,5 +3,5 @@ export function insertTimeElement(dateTime: string, element: Text) {
     timeEl.textContent = dateTime;
     timeEl.dateTime = dateTime;
     timeEl.className = 'ost-date';
-    element.parentElement.insertBefore(timeEl, element);
+    element.parentElement?.insertBefore(timeEl, element);
 }
