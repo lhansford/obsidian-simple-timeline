@@ -1,10 +1,22 @@
 # Obsidian Simple Timeline
 
-TODO:
+Display a list of dates and times as a timeline in Obisidian.
+
+![A timeline in an Obisidian note](./timeline.png)
 
 ## Usage
 
-TODO:
+This plugin will look for text formatted in one of the following ways:
+
+```
+- YYYY-MM-DD: <Any text>
+- YYYY-MM-DD MM:SS: <Any text>
+```
+
+No other date/time formats are currently supported (feel free to open an Issue or PR though).
+
+Any matching text will be styled with the CSS class `.ost-date`. In Reading Mode the date/time will be displayed to
+the left of the document.
 
 ## Development
 
@@ -12,7 +24,7 @@ TODO:
 
 - Update version in package.json, manifest.json, and versions.json
 - Create release in Github
-- Build app and attach `main.js` and `manifest.json` to release.
+- Build app and attach `main.js`, `styles.css`, and `manifest.json` to release.
 
 ### Developing locally
 
