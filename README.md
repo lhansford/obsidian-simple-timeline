@@ -1,8 +1,8 @@
 # Obsidian Simple Timeline
 
-Display a list of dates and times as a timeline in Obisidian.
+Display a list of dates and times as a timeline in Obsidian.
 
-![A timeline in an Obisidian note](./timeline.png)
+![A timeline in an Obsidian note](./timeline.png)
 
 ## Usage
 

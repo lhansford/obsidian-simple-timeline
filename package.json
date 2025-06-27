@@ -1,7 +1,7 @@
 {
 	"name": "obsidian-simple-timeline",
 	"version": "1.0.0",
-	"description": "Display a list of dates and times as a timeline in Obisidian.",
+	"description": "Display a list of dates and times as a timeline in Obsidian.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
