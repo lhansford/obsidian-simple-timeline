@@ -3,7 +3,7 @@
 	"name": "Simple Timeline",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Display a list of dates and times as a timeline in Obsidian.",
+	"description": "Display a list of dates and times as a timeline.",
 	"author": "Luke Hansford",
 	"authorUrl": "https://github.com/lhansford",
 	"isDesktopOnly": false
